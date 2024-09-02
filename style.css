@@ -151,7 +151,7 @@ font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", G
 body{
 background:#ccc;
 color: #111;
--webkit-text-size-adjust: none;
+/* -webkit-text-size-adjust: none; */
 }
 
 .container {
